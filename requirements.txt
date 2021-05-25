@@ -47,5 +47,3 @@ xmltodict==0.12.0
 youtube_transcript_api
 pytube
 git+git://github.com/openai/CLIP.git
-stylegan
-biggan
