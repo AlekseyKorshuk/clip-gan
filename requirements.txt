@@ -5,7 +5,7 @@ botocore==1.20.72
 certifi==2020.12.5
 chardet==4.0.0
 clip
-DALL-E==0.1
+DALL-E
 decorator==4.4.2
 filelock==3.0.12
 ftfy==6.0.1
@@ -47,3 +47,5 @@ xmltodict==0.12.0
 youtube_transcript_api
 pytube
 git+git://github.com/openai/CLIP.git
+stylegan
+biggan
